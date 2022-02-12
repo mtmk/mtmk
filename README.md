@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Notes: https://github.com/mtmk/notes
+
 - 👯 Coming soon ...  https://ninjax.org
 - 👯 Also coming soon ...  https://tspec.org
 - 🔭 I’m currently working on https://suzen.app/spelling/ ... code is here: https://github.com/suzenapp/spelling
