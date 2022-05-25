@@ -2,10 +2,10 @@
 
 Notes: https://github.com/mtmk/notes
 
-- 👯 Coming soon ...  https://github.com/ninjaxorg
-- 👯 Also coming soon ...  https://github.com/tspec
+- 🔭 Coming soon ...  https://github.com/ninjaxorg
+- 🔭 Also coming soon ...  https://github.com/tspec
 - 🔭 I’m currently working on https://suzen.app/spelling/ ... code is here: https://github.com/suzenapp/spelling
-- Some dotnet wasm https://mtmk.github.io/cheat/
+- 🌱 Some dotnet wasm https://mtmk.github.io/cheat/
 
 <!--
 **mtmk/mtmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
