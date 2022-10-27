@@ -2,6 +2,7 @@
 
 Notes: https://github.com/mtmk/notes
 
+- 🌟 NEW Have a look at my new project to create access tokens using GitHub Apps: https://github.com/mtmk/GitHubAppToken
 - 🔭 Coming soon ...  https://github.com/ninjaxorg
 - 🔭 Also coming soon ...  https://github.com/tspec
 - 🔭 I’m currently working on https://suzen.app/spelling/ ... code is here: https://github.com/suzenapp/spelling
