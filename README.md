@@ -2,6 +2,7 @@
 
 Notes: https://github.com/mtmk/notes
 
+- 🌟 Started working on https://github.com/nats-io/nats.net.v2 ... still under active development... watch this space
 - 🌟 NEW Have a look at my new project to create access tokens using GitHub Apps: https://github.com/mtmk/GitHubAppToken
 - 🔭 Coming soon ...  https://github.com/ninjaxorg
 - 🔭 Also coming soon ...  https://github.com/tspec
