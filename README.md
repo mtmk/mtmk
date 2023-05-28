@@ -1,3 +1,8 @@
+| [Notes](https://github.com/mtmk/notes)
+| [NATS.NET V2](https://github.com/nats-io/nats.net.v2)
+| [see also AlterNats](https://github.com/Cysharp/AlterNats)
+| [NATS](https://github.com/nats-io)
+
 ### Hi there 👋
 
 Notes: https://github.com/mtmk/notes
