@@ -1,4 +1,5 @@
 | [Notes](https://github.com/mtmk/notes)
+| [NATS](https://nats.io/)
 | [NATS.NET V2](https://github.com/nats-io/nats.net.v2)
 | [NATS NET V1](https://github.com/nats-io/nats.net)
 | [AlterNats](https://github.com/Cysharp/AlterNats)
