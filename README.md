@@ -10,6 +10,7 @@
 |
 | [runtime](https://github.com/dotnet/runtime)
 | [dev](https://github.com/dotnet/runtime/blob/main/docs/workflow/README.md)
+| [clr](https://github.com/dotnet/runtime/blob/main/docs/workflow/debugging/coreclr/debugging-runtime.md)
 | 
 | [aspnetcore](https://github.com/dotnet/aspnetcore)
 | [dev](https://github.com/dotnet/aspnetcore/blob/main/docs/BuildFromSource.md)
