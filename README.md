@@ -10,6 +10,14 @@
 | [NATS Cli](https://github.com/nats-io/natscli)
 |
 
+| [runtime](https://github.com/dotnet/runtime)
+| [dev](https://github.com/dotnet/runtime/blob/main/docs/workflow/README.md)
+| 
+| [aspnetcore](https://github.com/dotnet/aspnetcore)
+| [dev](https://github.com/dotnet/aspnetcore/blob/main/docs/BuildFromSource.md)
+|
+| [roslyn](https://github.com/dotnet/roslyn)
+|
 
 ### Hi there 👋
 
