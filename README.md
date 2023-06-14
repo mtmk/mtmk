@@ -1,7 +1,6 @@
 | [notes](https://github.com/mtmk/notes)
 | [natsbench](https://github.com/mtmk/natsbench)
 |
-
 | [NATS](https://nats.io/)
 | [NATS.NET V2](https://github.com/nats-io/nats.net.v2)
 | [NATS NET V1](https://github.com/nats-io/nats.net)
@@ -9,7 +8,6 @@
 | [NATS](https://github.com/nats-io)
 | [NATS Cli](https://github.com/nats-io/natscli)
 |
-
 | [runtime](https://github.com/dotnet/runtime)
 | [dev](https://github.com/dotnet/runtime/blob/main/docs/workflow/README.md)
 | 
