@@ -9,6 +9,7 @@
 | [NATS Cli](https://github.com/nats-io/natscli)
 |
 | [runtime](https://github.com/dotnet/runtime)
+| [build-lib](https://github.com/dotnet/runtime/blob/main/docs/workflow/building/libraries/README.md)
 | [docs](https://github.com/dotnet/runtime/blob/main/docs/README.md)
 | [dev](https://github.com/dotnet/runtime/blob/main/docs/workflow/README.md)
 | [clr](https://github.com/dotnet/runtime/blob/main/docs/workflow/debugging/coreclr/debugging-runtime.md)
