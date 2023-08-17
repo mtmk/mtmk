@@ -1,23 +1,28 @@
 | [notes](https://github.com/mtmk/notes)
 | [natsbench](https://github.com/mtmk/natsbench)
 |
-| [NATS](https://nats.io/)
-| [NATS.NET V2](https://github.com/nats-io/nats.net.v2)
-| [NATS NET V1](https://github.com/nats-io/nats.net)
+
+| [NATS.IO](https://nats.io/)
+| [Beta docs](https://beta-docs.nats.io/)
+| [NET V2](https://github.com/nats-io/nats.net.v2)
+| [NET V1](https://github.com/nats-io/nats.net)
 | [AlterNats](https://github.com/Cysharp/AlterNats)
-| [NATS](https://github.com/nats-io)
-| [NATS Cli](https://github.com/nats-io/natscli)
+| [GitHub](https://github.com/nats-io)
+| [Cli](https://github.com/nats-io/natscli)
 |
-| [runtime](https://github.com/dotnet/runtime)
+
+| [.NET Runtime](https://github.com/dotnet/runtime)
 | [build-lib](https://github.com/dotnet/runtime/blob/main/docs/workflow/building/libraries/README.md)
 | [docs](https://github.com/dotnet/runtime/blob/main/docs/README.md)
 | [dev](https://github.com/dotnet/runtime/blob/main/docs/workflow/README.md)
 | [clr](https://github.com/dotnet/runtime/blob/main/docs/workflow/debugging/coreclr/debugging-runtime.md)
 | 
-| [aspnetcore](https://github.com/dotnet/aspnetcore)
+
+| [ASP.NET Core](https://github.com/dotnet/aspnetcore)
 | [dev](https://github.com/dotnet/aspnetcore/blob/main/docs/BuildFromSource.md)
 |
-| [roslyn](https://github.com/dotnet/roslyn)
+
+| [Roslyn](https://github.com/dotnet/roslyn)
 |
 
 ### Hi there 👋
