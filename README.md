@@ -25,11 +25,6 @@
 | [Roslyn](https://github.com/dotnet/roslyn)
 |
 
-### Hi there 👋
-
-- 🌟 Started working on [NATS.NET V2](https://github.com/nats-io/nats.net.v2) ... still under active development... watch this space ... [see also AlterNats](https://github.com/Cysharp/AlterNats)
-- 🌟 NEW Have a look at my new project to create access tokens using GitHub Apps: https://github.com/mtmk/GitHubAppToken
-
 <!--
 **mtmk/mtmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
