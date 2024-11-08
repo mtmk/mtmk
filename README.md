@@ -1,6 +1,17 @@
 ## [Man Group London Hackathon 2024](https://www.man.com/london-hackathon-2024)
 #### Saturday 9th of November 2024
 
+http://nats.io
+
+https://github.com/nats-io/nats.net
+
+https://github.com/nats-io/nats.py
+
+https://github.com/nats-io/nats-server
+
+
+
+
 ---
 
 | [notes](https://github.com/mtmk/notes)
