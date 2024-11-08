@@ -13,6 +13,7 @@ https://github.com/nats-io/nats-server
 
 
 ---
+<!--
 
 | [notes](https://github.com/mtmk/notes)
 | [natsbench](https://github.com/mtmk/natsbench)
@@ -41,7 +42,6 @@ https://github.com/nats-io/nats-server
 | [Roslyn](https://github.com/dotnet/roslyn)
 |
 
-<!--
 **mtmk/mtmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
