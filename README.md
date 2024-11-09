@@ -11,6 +11,8 @@ https://github.com/nats-io/nats.py
 
 https://github.com/nats-io/nats-server
 
+https://github.com/nats-io/natscli/releases
+
 
 
 
