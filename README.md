@@ -1,24 +1,3 @@
-## [Man Group London Hackathon 2024](https://www.man.com/london-hackathon-2024)
-#### Saturday 9th of November 2024
-
-[my presentation](https://github.com/mtmk/mtmk/blob/main/NATS%20MAN%20London%202024.pdf)
-
-http://nats.io
-
-https://github.com/nats-io/nats.net
-
-https://github.com/nats-io/nats.py
-
-https://github.com/nats-io/nats-server
-
-https://github.com/nats-io/natscli/releases
-
-
-
-
----
-<!--
-
 | [notes](https://github.com/mtmk/notes)
 | [natsbench](https://github.com/mtmk/natsbench)
 |
@@ -46,16 +25,3 @@ https://github.com/nats-io/natscli/releases
 | [Roslyn](https://github.com/dotnet/roslyn)
 |
 
-**mtmk/mtmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
